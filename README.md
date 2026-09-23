@@ -2,7 +2,7 @@
 
 I'm a Backend Engineer focused on building real-time, high-throughput payment systems, with deep experience across the ISO 20022 messaging standard and SEPA, SWIFT, and BACS clearing corridors.
 
-My work spans core service design, payment operations tooling, and reliability at scale — helping financial infrastructure teams process transactions accurately and quickly while keeping systems resilient under real-world edge cases. With a strong background in Java and backend architecture, I've contributed across the full lifecycle, from design through implementation and production support.
+My work spans core service design, payment operations tooling, and reliability at scale, helping financial infrastructure teams process transactions accurately and quickly while keeping systems resilient under real-world edge cases. With a strong background in Java and backend architecture, I've contributed across the full lifecycle, from design through implementation and production support.
 
 ---
 
